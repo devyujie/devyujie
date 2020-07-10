@@ -2,8 +2,6 @@
 
 Hi, I'm YJ Bian, a passionate frontEnd web developer from China.
 
-<br/>
-
 - 🔭 I’m currently working on my project [HoverMagic](<https://github.com/HoverMagic>)
 - 🌱 I’m currently learning PHP, TypeScript/JavaScript, Vue.js
 - 💬 Ask me about anything [here](https://github.com/isArtJay/isArtJay/issues)
