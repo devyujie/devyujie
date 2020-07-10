@@ -1,4 +1,4 @@
-### Hi , welcome to my playground 👋👋👋
+### Hi 👋
 
 Hi, I'm YJ Bian, a passionate frontEnd web developer from China.
 
