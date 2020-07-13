@@ -1,4 +1,6 @@
-### Hi 👋
+### Hi , friends! <img src="https://raw.githubusercontent.com/JoaoVSouto/JoaoVSouto/master/assets/Hi.gif" width="30px">
+
+<img align='right' src='https://raw.githubusercontent.com/JoaoVSouto/JoaoVSouto/master/assets/github_wall.gif' width='200'>
 
 Hi, I'm YJ Bian, a passionate frontEnd web developer from China.
 
