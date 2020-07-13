@@ -1,6 +1,6 @@
-### Hi , friends! <img src="/assets/Hi.gif" width="30px">
+### Hi , friends! <img src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/Hi.gif" width="30px">
 
-<img align='right' src='/assets/github_wall.gif' width='200'>
+<img align='right' src='https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/github_wall.gif' width='200'>
 
 Hi, I'm YJ Bian, a passionate frontEnd web developer from China.
 
