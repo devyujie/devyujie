@@ -2,7 +2,7 @@
 
 <img align='right' src='https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/github_wall.gif' width='200'>
 
-I'm Yujie Bian, a Chinese passionate front-end developer who loves to create new things and explore new technologies.       
+I'm Yujie Bian, a passionate frontEnd web developer from China. 
 
 - 🔭 I’m currently working on my project [HoverMagic](<https://github.com/HoverMagic>)
 - 🌱 I’m currently learning PHP, TypeScript/JavaScript, Vue.js
