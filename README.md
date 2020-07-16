@@ -7,7 +7,7 @@ I'm Yujie Bian, a passionate frontEnd web developer from China.
 - 👨🏽‍💻 I’m currently working on [HoverMagic](<https://github.com/HoverMagic>)
 - 🌱 I’m currently learning PHP, TypeScript/JavaScript, Vue.js
 - 🤝 I’m looking to collaborate on [HoverMagic](<https://github.com/HoverMagic>)
-- 💬 Ask me about anything [here](https://github.com/isArtJay/isArtJay/issues), I am happy to help
+- 💬 Ask me about anything [here](<https://github.com/isArtJay/isArtJay/issues/1>), I am happy to help
 - 📫 How to reach me: [Blog](https://www.lien.run) [Telegram](https://t.me/yj_bian) [Email](mailto:artjay.code@gmail.com)
 
 **Languages and Tools:**  
