@@ -1,4 +1,4 @@
-## Hi , friends! <a targe="_blank" href="https://www.lien.run"><img src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/code-cat.gif" width="30px"></a>
+## Hi , friends! <a href="https://www.lien.run"><img src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/code-cat.gif" width="30px"></a>
 
 <img align='right' src='https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/github_wall.gif' width='200'>
 
