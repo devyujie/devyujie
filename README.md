@@ -1,6 +1,6 @@
 ## Hi , friends! <a href="https://www.lien.run"><img src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/code-cat.gif" width="30px"></a>
 
-<img align='right' src='https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/github_wall.gif' width='200'>
+<img align='right' src='https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/github_wall.gif' width='150'>
 
 I'm Yujie Bian, a passionate frontEnd web developer from China. 
 
