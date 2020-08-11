@@ -1,4 +1,4 @@
-Hi , friends! 
+Hi , friends! 👋
 
 I'm Yujie Bian, a passionate frontEnd web developer from China. 
 
