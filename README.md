@@ -11,4 +11,4 @@ I'm Yujie Bian, a passionate frontEnd web developer from China.
 <br/>
 
 <p>
-    <img  src="https://github-readme-stats.vercel.app/api?username=isArtJay&hide_title=true&hide=stars&show_icons=true&line_height=23"></img><img palign="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=isArtJay&layout=compact" /></p>
+    <img  src="https://github-readme-stats.vercel.app/api?username=isArtJay&hide_title=true&hide=stars&show_icons=true&line_height=23"></img><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=isArtJay&layout=compact" /></p>
