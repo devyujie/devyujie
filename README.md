@@ -14,8 +14,6 @@ Hi , friends! 👋
 
 - Peter van der Linden **Expert C Programming: Deep C Secrets** <a target="_blank" href="https://www.goodreads.com/book/show/198207.Expert_C_Programming"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a>
 
-<br/>
-
 
 
 
