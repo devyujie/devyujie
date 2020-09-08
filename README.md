@@ -1,5 +1,7 @@
 Hi , friends! 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isArtJay&layout=compact"></img>
+
 > I'm Yujie Bian, a passionate frontEnd web developer from China. 
 
 - 👨🏽‍💻 I’m currently working on [Mouse](<https://github.com/isArtJay/Mouse>)
@@ -14,7 +16,7 @@ Hi , friends! 👋
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isArtJay&layout=compact"></img>
+
 
 
 
