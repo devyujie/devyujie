@@ -1,4 +1,4 @@
-Hi , friends! <img src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/Hi.gif" width="25px"></img>
+Hi , friends! 👋
 
 > I'm Yujie Bian, a passionate frontEnd web developer from China. 
 
@@ -10,7 +10,7 @@ Hi , friends! <img src="https://raw.githubusercontent.com/isArtJay/isArtJay/mast
 
 #### 📚 Currently reading
 
-- Peter van der Linden **Expert C Programming: Deep C Secrets** <a target="_blank" href="https://www.goodreads.com/book/show/198207.Expert_C_Programming"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a>
+- Peter van der Linden **[Expert C Programming: Deep C Secrets](https://www.goodreads.com/book/show/198207.Expert_C_Programming)** <a target="_blank" href="https://www.goodreads.com/book/show/198207.Expert_C_Programming"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a>
 
 <br/>
 
