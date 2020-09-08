@@ -6,7 +6,7 @@ Hi , friends! 👋
 - 🌱 I’m currently learning `C` `Python` and improving `JavaScript`
 - 🤝 I’m looking to collaborate on [Mouse](<https://github.com/isArtJay/Mouse>)
 - 💬 Ask me about anything [here](<https://github.com/isArtJay/isArtJay/issues/1>), I am happy to help
-- 📫 How to reach me: [Telegram](https://t.me/yj_bian) [Twitter](https://twitter.com/yj_bian) [LinkedIn](https://www.linkedin.com/in/bianyujie)  [Email](mailto:bianyujie@lien.run)
+- 📫 How to reach me: [Twitter](https://twitter.com/yj_bian) [LinkedIn](https://www.linkedin.com/in/bianyujie) [Telegram](https://t.me/yj_bian) [Email](mailto:bianyujie@lien.run)
 
 #### 📚 Currently reading
 
