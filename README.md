@@ -1,6 +1,6 @@
 Hi , friends! 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isArtJay&layout=compact"></img>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isArtJay&layout=compact">
 
 > I'm Yujie Bian, a passionate frontEnd web developer from China. 
 
