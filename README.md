@@ -1,6 +1,6 @@
 Hi , friends! 👋
 
-<img align="right" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/coding_.png">
+<img align="right" width="300px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/coding.svg">
 
 > I'm Yujie Bian, a passionate frontEnd web developer from China. 
 
