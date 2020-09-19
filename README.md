@@ -1,4 +1,4 @@
-Hi , friends! <img width="25px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/bird.gif"></img>
+Hi , friends! <img width="20px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/bird.gif"></img>
 
 <img align="right" width="240px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/coding.svg">
 
