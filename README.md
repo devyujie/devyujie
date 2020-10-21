@@ -1,4 +1,4 @@
-Hi , friends! <img width="16px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/bird.gif"></img>  <img width="16px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/bird5.gif"></img>  <img width="16px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/bird2.gif"></img>
+Hi , friends! <img width="16px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/bird.gif"></img>&nbsp;&nbsp;  <img width="16px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/bird5.gif"></img>&nbsp;&nbsp;  <img width="16px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/bird2.gif"></img>
 
 <img align="right" width="230px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/coding.svg">
 
