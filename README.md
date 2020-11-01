@@ -1,6 +1,6 @@
-Hi , friends! <img width="16px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/bird.gif"></img>&nbsp;&nbsp;  <img width="16px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/bird5.gif"></img>&nbsp;&nbsp;  <img width="16px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/bird2.gif"></img>
+Hi , friends! <img width="16px" src="https://bisai-1258580758.cos.ap-shanghai.myqcloud.com/bird.gif"></img>&nbsp;&nbsp;  <img width="16px" src="https://bisai-1258580758.cos.ap-shanghai.myqcloud.com/bird5.gif"></img>&nbsp;&nbsp;  <img width="16px" src="https://bisai-1258580758.cos.ap-shanghai.myqcloud.com/bird2.gif"></img>
 
-<img align="right" width="230px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/master/assets/coding.svg">
+<img align="right" width="230px" src="https://bisai-1258580758.cos.ap-shanghai.myqcloud.com/coding.svg">
 
 > I'm Yujie Bian, a passionate frontEnd web developer from China. 
 
