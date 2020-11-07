@@ -5,7 +5,7 @@ Hi , friends!
 - 👨🏽‍💻 I’m currently working on [Mouse](<https://github.com/isArtJay/Mouse>)
 - 🌱 I’m currently learning `C` `Go` `Swift` and improving `JavaScript`
 - 🤝 I’m looking to collaborate on [Mouse](<https://github.com/isArtJay/Mouse>)
-- 💬 Ask me about anything [here](<https://github.com/isArtJay/isArtJay/issues/1>), I am happy to help
+- 💬 Ask me anything [here](<https://github.com/isArtJay/isArtJay/issues/1>), and I'll be happy to help you
 - 📫 How to reach me: [Twitter](https://twitter.com/yj_bian) [Telegram](https://t.me/yj_bian) [Website](https://www.lien.run/) [Email](mailto:bianyujie@lien.run)
 
 #### 📚 Currently reading
