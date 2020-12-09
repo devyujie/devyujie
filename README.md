@@ -27,8 +27,8 @@
     <a href="https://leetcode-cn.com/u/yj_bian">
         LeetCode
     </a>/
-    <a href="mailto:artjay.code@gmail.com">
-        Gmail
+    <a href="mailto:bianyujie@lien.run">
+        Email
     </a>
 </p>
 
