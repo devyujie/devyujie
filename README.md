@@ -19,16 +19,16 @@
 </p>
 <p>
     <a href="https://t.me/yj_bian">
-        <img alt="Yujie's Telegram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
-    </a>
+        Telegram
+    </a>/
     <a href="https://twitter.com/yj_bian">
-        <img alt="Yujie's Twitter" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
-    </a>
+        Twitter
+    </a>/
     <a href="https://leetcode-cn.com/u/yj_bian">
-        <img alt="Yujie's LeetCode" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>
-    </a>
+        LeetCode
+    </a>/
     <a href="mailto:artjay.code@gmail.com">
-        <img alt="Yujie's Gmail" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+        Gmail
     </a>
 </p>
 
