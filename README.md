@@ -33,6 +33,9 @@
     <a href="mailto:bianyujie@lien.run">
         Email
     </a>
+    <br>
+    <br>
+    <image width="200px" src="https://raw.githubusercontent.com/isArtJay/isArtJay/163ecee6b6b97375a133b3777a3ce9da1564a9a3/assets/rustacean-flat-happy.svg"></image>
 </p>
 
 
