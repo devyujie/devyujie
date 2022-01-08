@@ -14,7 +14,7 @@
 </p>
 <p>
     <samp>
-        I’m currently learning <code>C++</code> <code>Rust</code> and looking to collaborate on <a href="https://github.com/isArtJay/Mouse">Mouse.css</a>|<a href="https://github.com/isArtJay/AtomicOS">AtomicOS</a>
+        I’m currently learning <code>C++</code> <code>Rust</code> and looking to collaborate on <a href="https://github.com/devyujie/Mouse">Mouse.css</a>|<a href="https://github.com/devyujie/AtomicOS">AtomicOS</a>
     </samp>
 </p>
 <p>
