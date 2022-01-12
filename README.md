@@ -4,7 +4,7 @@
     </samp>
 </p>
 <h2>
-    <samp>Hi there! I'm Yujie.</samp>
+    <samp>Hi there! I'm yujie.</samp>
 </h2>
 <p>
     <samp>
