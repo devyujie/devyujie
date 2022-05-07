@@ -18,12 +18,6 @@
     </samp>
 </p>
 <p>
-    <a href="https://t.me/devxxxx">
-        Telegram
-    </a>/
-    <a href="https://twitter.com/yj_bian">
-        Twitter
-    </a>/
     <a href="mailto:realbianyujie@gmail.com">
         Email
     </a>
