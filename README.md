@@ -17,11 +17,6 @@
         I’m currently learning <code>Rust</code> <code>Solidity</code> and looking to collaborate on <a href="https://github.com/devyujie/Mouse">Mouse.css</a>
     </samp>
 </p>
-<p>
-    <a href="mailto:realbianyujie@gmail.com">
-        Email
-    </a>
-</p>
 
 
 
