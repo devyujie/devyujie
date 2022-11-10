@@ -14,7 +14,7 @@
 </p>
 <p>
     <samp>
-        I’m currently learning <code>Rust</code> <code>Solidity</code> and looking to collaborate on <a href="https://github.com/devyujie/Mouse">Mouse.css</a>
+        I’m currently learning <code>Rust</code> <code>Solidity</code>
     </samp>
 </p>
 
