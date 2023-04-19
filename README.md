@@ -8,7 +8,7 @@
 </h2>
 <p>
     <samp>
-        I'm a back-end developer. I like open
+        I'm a Software & Prompt Engineer. I like open
         source, and most of the time I'm active on GitHub.
     </samp>
 </p>
