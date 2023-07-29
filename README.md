@@ -8,13 +8,13 @@
 </h2>
 <p>
     <samp>
-        I'm a Software & Prompt Engineer. I like open
+        I'm a Software Engineer. I like open
         source, and most of the time I'm active on GitHub.
     </samp>
 </p>
 <p>
     <samp>
-        I’m currently learning <code>Rust</code> <code>Solidity</code>
+        I'm programming in <code>Python</code> and <code>Rust</code>.
     </samp>
 </p>
 
