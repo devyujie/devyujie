@@ -14,7 +14,7 @@
 </p>
 <p>
     <samp>
-        I'm programming in <code>Python</code> and <code>Rust</code>.
+        I'm programming in <code>Python</code>.
     </samp>
 </p>
 
