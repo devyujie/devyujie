@@ -9,7 +9,7 @@
 </p>
 <p>
     <samp>
-        I'm programming in <code>Python</code>.
+        I'm programming in <code>Rust</code>.
     </samp>
 </p>
 
