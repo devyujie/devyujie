@@ -9,7 +9,7 @@
 </p>
 <p>
     <samp>
-        I'm programming in <code>Rust</code>.
+        I'm trying to get started <code>rust</code>.
     </samp>
 </p>
 
