@@ -13,14 +13,4 @@
     </samp>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Ehco1996/Ehco1996/output/github-contribution-grid-snake.svg)
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/devyujie/devyujie/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
-
