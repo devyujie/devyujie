@@ -1,5 +1,5 @@
 <h2>
-    ### devyujie ✈️ ![](https://views.whatilearened.today/views/github/devyujie/devyujie.svg)
+    yujie ✈️
 </h2>
 <p>
     <samp>
