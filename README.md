@@ -1,5 +1,5 @@
 <h2>
-    <samp>Hi there! I'm yujie. ![](https://views.whatilearened.today/views/github/ehco1996/ehco1996.svg)</samp>
+    <samp>Hi there! I'm yujie.</samp> ![](https://views.whatilearened.today/views/github/devyujie/devyujie.svg)
 </h2>
 <p>
     <samp>
