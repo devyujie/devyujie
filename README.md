@@ -1,6 +1,5 @@
 <h2>
-    <samp>Hi there! I'm yujie.</samp>
-    ![ViewCount](https://views.whatilearened.today/views/github/devyujie/devyujie.svg)
+    ### devyujie ✈️ ![](https://views.whatilearened.today/views/github/devyujie/devyujie.svg)
 </h2>
 <p>
     <samp>
