@@ -20,16 +20,3 @@ This is the place where I opensource stuff and break things :rofl:
 - [利用 openai-translator 实现电脑的全局翻译/写作](https://xlog.app/api/redirection?characterId=54234&noteId=6)
 - [部署自己的 ChatGPT](https://xlog.app/api/redirection?characterId=54234&noteId=1)
 <!-- BLOG-POST-LIST:END -->
-
-
-```
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
-```
