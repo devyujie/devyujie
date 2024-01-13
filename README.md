@@ -16,4 +16,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [设置 Google Voice 自动保号](https://xlog.app/api/redirection?characterId=54234&noteId=8)
+- [稳定实用的 Youtube 视频下载器](https://xlog.app/api/redirection?characterId=54234&noteId=7)
+- [利用 openai-translator 实现电脑的全局翻译/写作](https://xlog.app/api/redirection?characterId=54234&noteId=6)
+- [部署自己的 ChatGPT](https://xlog.app/api/redirection?characterId=54234&noteId=1)
 <!-- BLOG-POST-LIST:END -->
