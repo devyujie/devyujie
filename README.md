@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning `Rust`
-- 💬 &nbsp;Ask me about anything related to `JavaScript`/`TypeScript` or `Vue`/`React`/`Express`
+- 💬 &nbsp;Ask me about anything related to `JavaScript`/`TypeScript` or `Vue`/`React`
 - 👨‍💻 &nbsp;Read more about my projects at [realyujie.xlog.app](https://realyujie.xlog.app/portfolios)
 
 
