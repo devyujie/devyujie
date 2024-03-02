@@ -4,7 +4,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devyujie/devyujie/output/github-contribution-grid-snake.svg">
 </picture>
 
-### Hi there 👋
+👋 &nbsp;**Hi there**
+
 This is the place where I opensource stuff and break things :rofl:
 
 
