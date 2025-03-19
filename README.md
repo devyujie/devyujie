@@ -23,7 +23,3 @@ This is the place where I opensource stuff and break things :rofl:
 - [设置 Google Voice 自动保号](https://xlog.app/api/redirection?characterId=54234&noteId=8)
 - [稳定实用的 Youtube 视频下载器](https://xlog.app/api/redirection?characterId=54234&noteId=7)
 <!-- BLOG-POST-LIST:END -->
-
-🧩 &nbsp;**Contributions**
-
-[![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
