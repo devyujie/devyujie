@@ -17,6 +17,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Notion + Hexo + GitHub Actions + Vercel 博客方案](https://bianyujie.cn/notion-hexo/)
 - [Notion + Hexo + GitHub Actions + Vercel 博客解决方案](https://bianyujie.cn/notion-hexo/)
 - [Notion-Hexo 的 Elog 配置详解](https://bianyujie.cn/notion-notice/)
 <!-- BLOG-POST-LIST:END -->
