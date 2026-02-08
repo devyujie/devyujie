@@ -16,4 +16,4 @@ jobs:
       - name: Pull in realyujie.xlog.app posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://realyujie.xlog.app/feed"
+          feed_list: "https://www.bianyujie.cn/rss.xml"
