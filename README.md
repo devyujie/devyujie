@@ -17,7 +17,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [博客迁移指南（Notion + Hexo + GitHub Actions + Vercel ）](https://bianyujie.cn/Notion-Hexo-Vercel-Blog/)
 - [无限续杯 Cursor](https://bianyujie.cn/Unlimited-use-of-the-cursor/)
 - [美化自己的 GitHub 个人主页](https://bianyujie.cn/Beautify-your-GitHub-personal-homepage/)
 - [设置 Google Voice 自动保号](https://bianyujie.cn/Set-up-Google-Voice-to-automatically-keep-the-number/)
