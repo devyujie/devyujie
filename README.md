@@ -17,8 +17,5 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [无限续杯 Cursor](https://bianyujie.cn/Unlimited-use-of-the-cursor/)
-- [这可能是最后一次迁移博客主站了](https://bianyujie.cn/Beautify-your-GitHub-personal-homepage/)
-- [设置 Google Voice 自动保号](https://bianyujie.cn/Set-up-Google-Voice-to-automatically-keep-the-number/)
-- [部署自己的 ChatGPT](https://bianyujie.cn/Deploying-your-own-ChatGPT/)
+- [从 xLog 到 Notion + Hexo：折腾是为了更好地躺平](https://bianyujie.cn/From-xLog-to-Notion-Hexo/)
 <!-- BLOG-POST-LIST:END -->
