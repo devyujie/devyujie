@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devyujie/devyujie/output/github-contribution-grid-snake.svg">
 </picture>
 
-👋 &nbsp;**Hi there**
+<img src='hi.gif' alt='Hi' width="15"/> &nbsp;&nbsp;**Hi there**
 
 This is the place where I opensource stuff and break things :rofl:
 
@@ -13,7 +13,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 &nbsp;Ask me about anything related to `JavaScript`/`TypeScript` or `Vue`
 - 👨‍💻 &nbsp;Highly recommend using `Codex` to take over your daily coding tasks
 - 🌐 &nbsp;Read more about my projects at [bianyujie.cn](https://bianyujie.cn)
-- 🐈 &nbsp;Fun fact: I want to raise a cat 
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
