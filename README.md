@@ -16,5 +16,5 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [从 xLog 到 Notion + Hexo：折腾是为了更好地躺平](https://www.bianyujie.cn/From-xLog-to-Notion-Hexo/)
+- [从 xLog 到 Notion + Hexo：折腾是为了更好地躺平](https://bianyujie.cn/From-xLog-to-Notion-Hexo/)
 <!-- BLOG-POST-LIST:END -->
