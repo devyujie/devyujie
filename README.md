@@ -13,6 +13,7 @@
 🛠️ &nbsp;**Some agent tools I recommend and am currently using**
 - [Herdr](https://herdr.dev/)
 - [Codex](https://learn.chatgpt.com/docs/codex/cli#getting-started)
+- [Claude Code](https://claude.com/product/claude-code)
 - [CodeGraph](https://github.com/colbymchenry/codegraph)
 - [Context7](https://context7.com/)
 - [Tavily](tavily.com)
