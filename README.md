@@ -4,15 +4,22 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devyujie/devyujie/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src='hi.gif' alt='Hi' width="15"/> &nbsp;&nbsp;**Hi there**
-
-This is the place where I opensource stuff and break things :rofl:
-
-
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 💬 &nbsp;Ask me about anything related to `JavaScript`/`TypeScript` or `Vue`
-- 👨‍💻 &nbsp;Highly recommend using `Codex` to take over your daily coding tasks
+👋 &nbsp;**Hi there**
+- 😋 &nbsp;This is the place where I opensource stuff and break things
+- 🔭 &nbsp;Recently, I have made a small entry into the field of AI hardware
+- 💬 &nbsp;Ask me about anything related to `JavaScript`/`TypeScript`/`Vue`
 - 🌐 &nbsp;Read more about my projects at [bianyujie.cn](https://bianyujie.cn)
+
+🛠️ &nbsp;**Some agent tools I recommend and am currently using**
+- [Herdr](https://herdr.dev/)
+- [Codex](https://learn.chatgpt.com/docs/codex/cli#getting-started)
+- [CodeGraph](https://github.com/colbymchenry/codegraph)
+- [Context7](https://context7.com/)
+- [Tavily](tavily.com)
+- [rtk](https://github.com/rtk-ai/rtk)
+- [Kimi WebBridge](https://www.kimi.com/products/kimi-webbridge)
+- [best-claude-hud](https://github.com/GaoSSR/best-claude-hud)
+
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
