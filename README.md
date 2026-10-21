@@ -18,7 +18,6 @@
 - [Context7](https://context7.com/)
 - [Tavily](tavily.com)
 - [rtk](https://github.com/rtk-ai/rtk)
-- [Kimi WebBridge](https://www.kimi.com/products/kimi-webbridge)
 - [best-claude-hud](https://github.com/GaoSSR/best-claude-hud)
 
 
